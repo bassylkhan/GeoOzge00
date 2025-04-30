@@ -1,0 +1,7 @@
+Enable Russian language support for quiz questions and explanations
+
+Adds Russian translations to quiz questions, options, and explanations in `Quiz.tsx` and `quiz.ts`.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 8b19d713-22f2-4172-813d-26e74cb96578
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/491ddf79-0e32-4a96-b2b0-46c175877911/3a0fa366-3fc6-4a71-8681-236e1cb95a85.jpg
